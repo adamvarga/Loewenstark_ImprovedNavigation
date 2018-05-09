@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Loewenstark_ImprovedNavigation>
+            <version>0.0.1</version>
+        </Loewenstark_ImprovedNavigation>
+    </modules>
+    <global>
+        <blocks>
+            <improvednav>
+                <class>Loewenstark_ImprovedNavigation_Block</class>
+            </improvednav>
+            <page>
+                <rewrite>
+                    <html_topmenu>Loewenstark_ImprovedNavigation_Block_Page_Html_Topmenu</html_topmenu>
+                </rewrite>
+            </page>
+        </blocks>
+    </global>
+</config>

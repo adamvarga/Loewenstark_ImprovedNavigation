@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Loewenstark_ImprovedNavigation>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Page />
+                <Webcomm_BootstrapNavigation />
+            </depends>
+        </Loewenstark_ImprovedNavigation>
+    </modules>
+</config>

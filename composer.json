@@ -1,0 +1,20 @@
+{
+  "name": "loewenstark/improvednavigation",
+  "license": "GPL-3.0",
+  "type": "magento-module",
+  "description": "Product listing in Magento Navigation",
+  "homepage": "https://github.com/adamvarga/Loewenstark_ImprovedNavigation",
+  "require": {
+    "php": ">=5.3"
+  },
+  "suggest": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Adam Varga",
+      "email": "adamvarga@gmx.net",
+      "role": "Author/Maintainer"
+    }
+  ]
+}
